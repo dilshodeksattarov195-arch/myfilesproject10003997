@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdync",
+        "uuid": 39938024,
+        "checksum": "p5tcfg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
